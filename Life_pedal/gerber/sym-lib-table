@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LM308")(type "KiCad")(uri "C:/Users/bnarb/Downloads/LM308/LM308.kicad_sym")(options "")(descr ""))
+  (lib (name "FS57003PLT2B2M2QE")(type "KiCad")(uri "C:/Users/bnarb/Downloads/FS57003PLT2B2M2QE/FS57003PLT2B2M2QE.kicad_sym")(options "")(descr ""))
+)
